@@ -1,0 +1,188 @@
+# Naive Spenser unsupervised training
+
+images from seas find embrace to ne tried in
+eyes from do than light mask of with most smile
+untimely circle's do here when or me rude
+the fullness body's simple this loves of
+
+
+faery his of dart brows to malice ship
+more will with that view whom shall culver did
+price had wrath careless not show augmented
+thinking were thrown so do to pricketh up that
+
+
+so or disconsolate sighs first late close
+heavy with of the feed thee wont harp mark
+sky pour to evermore of which thrall the
+fearless i preyed nought loose seeks and life teach the
+
+
+unmoved for is fire which in nature
+nor her wide messenger live gaze will love
+
+
+
+
+# Naive Spenser supervised training
+
+emprize in wreck yet spoil the'accomplishment
+leaves garden for the these rest else before
+to washed given their for ill celestial
+of sweet treading and invent desires
+
+
+to to equal with finding but beauty's
+peace worlds dart burn eyelids posterity
+yet of his do to of expectation
+before mishap tear unto i goods dare
+
+
+which merchandise it that senseless his hold th'
+those all more all of close that of contains
+captured and true lovely direct so carry
+pray lowest which you to atalanta
+
+
+winged no doth it sith scorning are my
+work increase the soom the'accomplishment
+
+
+
+
+# Naive Shakespeare unsupervised training
+
+in name wild might after thy with bail or
+such thou and when home so their this in so
+accessary whose be plea argument
+to to woe alack bough thee but thee gave
+
+
+a hold whose pure that trophies counterfeit
+well i but thy up-locked had awake
+in by spent as dear his my of within
+remover so usest for so flatter thou
+
+
+dissuade top to your no still her our plea then
+children no but may doth confounds her crown first
+pilgrimage memory of thee thou what with see
+i mind of mended free winters is with
+
+
+remembered compare eye in more the so which
+make expressed love filled holds seeing hue when
+
+
+
+
+
+
+(Another example)
+
+beauty the and but sleep hearts prove of most the
+lines either like is dark so but let his brief
+my in in thine state one thy the thy when
+to must his my his leisure art art such
+
+
+concord number they of fed mistress looked my
+wonder the such the but worst lie easy the
+poor records thy praise hath defaced what o
+truth ruined suffered when with art it think
+
+
+heaven remains forbidden from mind's made all
+because with given to thee yet moods some more well
+therein to my love sport do cunning reign up
+many in face all curls express read find like
+
+
+a sure art mine style determined all
+rest not by more with kindness veins as of
+
+
+
+
+
+# Naive Shakespeare supervised training
+
+
+heir thy wastes the first not by directed th'
+composition fingers our me tell alone
+by that and thou shifting not buried
+in methinks they the imaginary
+
+
+love like i force with toil dull difference th'
+thee of hand fortune would i is lips to
+offence might not and nor whereto thou other
+with every and part but make hate kill worths
+
+
+life my friend doth jewel never-resting
+apparel princes hungry incertainties
+horse my when leave dost change death's hath to call
+sweet in my purpose of beauteous praise will
+
+
+beyond foregone heaven when war's where my
+thou save with my thrive vows thy my prepare
+
+
+
+
+
+
+# Naive combined poem unsupervised training
+
+
+broke the true be minutes loss the more the
+yet when due pervert could love things was thy
+send argument year's vouchsafe she that lie
+no a beyond like is comments found such
+
+
+of enroll low your then being to survive
+therefore there i that looks ship hast err to
+firmer a dark bad virtue hold approve
+seems love doom my that bars shames music could
+
+
+astonishment end love's virtue audit
+every soil self-killed past 'tis they loves things me
+my virtue of nearly and lord that you
+unto worthless to but only another
+
+
+and despoiled of and joy single state
+i through till example your shall praise i
+
+
+
+
+
+# Naive combined poem supervised training
+
+
+with earth whose which i from and liberty
+of cannot to to pains where persever th'
+judgement make in to shall determined
+absence i minds fading him i honour th'
+
+
+record from love your i imaginary
+will past she call my how these her me as
+hath wouds let my when insufficiency
+short of state ah looks odorous body
+
+
+remembrance my thy which own with unkind which
+all prime his then the kingdoms more cure is
+fountains and pride being his do away of th'
+worthy die hearts she shall her accompanied th'
+
+
+ears that rudely and imaginary
+greedily of lies which should hundred thine
+
