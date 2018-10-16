@@ -3,7 +3,6 @@ from Utility import *
 from sonnet import SonnetWriter
 
 
-
 def write_to_file(file_path, poem):
 
     with open(file_path, 'w') as f:
@@ -13,7 +12,6 @@ def write_to_file(file_path, poem):
             f.write(line)
             if i == 3 or i == 7 or i == 11:
                 f.write("\n")
-
 
 
 if __name__ == '__main__':

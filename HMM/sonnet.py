@@ -65,7 +65,6 @@ class SonnetWriter:
             return random.sample(intersection, 1)[0]
 
 
-
     def writePoem(self, syllablesCount = 10):
         # rhyme scheme abab cdcd efef gg
         #  generate the 3 quatrains
@@ -89,7 +88,6 @@ class SonnetWriter:
                 poem += [tmp[0], tmp[2], tmp[1], tmp[3]]
             else:
                 poem += tmp
-        print(poem)
         return poem
 
 
